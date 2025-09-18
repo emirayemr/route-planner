@@ -110,12 +110,5 @@ npm run dev
 
 ---
 
-## Nice-to-Haves
-- Global exception handler with custom messages  
-- Postman collection for CRUD & routes  
-- Bonus: **Operating Days** field for transportations (with date filtering)  
-
----
-
 ## Author
 Emir Ay (Developed as part of the **Java Full Stack Development Case Study**).  
