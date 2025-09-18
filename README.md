@@ -111,4 +111,4 @@ npm run dev
 ---
 
 ## Author
-Emir Ay (Developed as part of the **Java Full Stack Development Case Study**).  
+Emir Ay
