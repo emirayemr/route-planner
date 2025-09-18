@@ -45,10 +45,6 @@ The project contains:
 |-------------|-----------|-----------------|
 | ![Routes](./screenshots/Routes.png) | ![Locations](./screenshots/Locations.png) | ![Transportations](./screenshots/Transportations.png) |
 
-More:
-- ![Route Detail](./screenshots/Screenshot%202025-09-18%20at%2002.25.45.png)  
-- ![UI Example](./screenshots/Screenshot%202025-09-18%20at%2002.26.19.png)  
-
 ---
 
 ## Backend Setup
