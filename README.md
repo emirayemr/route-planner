@@ -43,7 +43,7 @@ The project contains:
 ## Screenshots
 | Routes Page | Locations | Transportations |
 |-------------|-----------|-----------------|
-| ![Routes](./screenshots/Screenshot%202025-09-18%20at%2002.24.55.png) | ![Locations](./screenshots/Screenshot%202025-09-18%20at%2002.25.10.png) | ![Transportations](./screenshots/Screenshot%202025-09-18%20at%2002.25.24.png) |
+| ![Routes](./screenshots/Routes.png) | ![Locations](./screenshots/Locations.png) | ![Transportations](./screenshots/Transportations.png) |
 
 More:
 - ![Route Detail](./screenshots/Screenshot%202025-09-18%20at%2002.25.45.png)  
